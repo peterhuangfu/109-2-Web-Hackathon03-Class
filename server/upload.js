@@ -215,7 +215,7 @@ const alldata = [
     station_id: 'B11',
     station_name: '忠孝復興',
     station_type: 'B',
-    station_order: 10,
+    station_order: 11,
     address: '臺北市大安區忠孝東路4段47號',
     service_counter: '近出口1、2',
     enable_bicycle: '不開放',
